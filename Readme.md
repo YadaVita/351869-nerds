@@ -1,7 +1,7 @@
 # Личный проект «Нёрдс»
 
 * Студент: [Галина Шабурина](https://up.htmlacademy.ru/htmlcss/21/user/351869).
-* Наставник: [Алексей Белов] (https://github.com/Badaboom1995).
+* Наставник: [Алексей Белов](https://github.com/Badaboom1995).
 
 ---
 
